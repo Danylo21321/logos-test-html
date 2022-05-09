@@ -108,6 +108,13 @@ h1{
     text-align: center;
 }
 
+.footer-start{
+    text-align: center;
+    display: flex;
+    background-color: black;
+    justify-content: space-evenly
+}
+
 .card-img-top{border-top-left-radius:calc(.25rem - 1px);
     border-top-right-radius:calc(.25rem - 1px)
 }
